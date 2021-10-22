@@ -11,7 +11,7 @@ A simple Password Generator to make your
 make your passwords more secure!
 For any problem or request I suggest you to join the discord of my company "https://discord.gg/j4rVsMHPuG".
 I will be happy to help you.
-
+<br> <br>
 Copyright © 2021 DeVolutions. All rights reserved
 
 
